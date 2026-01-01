@@ -1,0 +1,25 @@
+{
+  "name": "palstyle48-shopify",
+  "version": "1.0.0",
+  "description": "Luxury Dark E-commerce Theme for Shopify",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "tailwindcss": "^3.3.0",
+    "framer-motion": "^10.16.0",
+    "three": "^r156",
+    "@react-three/fiber": "^8.14.0",
+    "@react-three/drei": "^9.88.0",
+    "zustand": "^4.4.0",
+    "axios": "^1.5.0",
+    "graphql-request": "^5.0.0"
+  }
+}
